@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif">
+  <img src= "https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Nithyashri ramkumar</h1>
